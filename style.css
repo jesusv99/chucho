@@ -11,7 +11,7 @@ html, body {
 .header {
   height: 300px;
   background-image: url("https://initiate.alphacoders.com/images/676/cropped-1400-425-676369.jpg?8011");
-  background-size: cover;
+  background-size:cover;
   transform: rotate(-4deg);
   margin-top: -70px;
   position: absolute;
@@ -25,7 +25,7 @@ html, body {
   border-radius:100%;
   height: 200px;
   margin: 0 auto;
-  top: 250px;
+  top: 150px;
   left: 200px;
   width: 200px;
   overflow:hidden;
